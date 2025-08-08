@@ -6,7 +6,7 @@ This is a simple *Rock-Paper-Scissors* game developed using *HTML, CSS, and Java
 
 ## 🖼 Screenshot Preview
 
-![Rock Paper Scissors Game Screenshot](screenshot.png.png)
+![Rock Paper Scissors Game Screenshot](screenshot.png(2).png)
 
 ---
 
