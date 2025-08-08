@@ -83,9 +83,9 @@ Anyone can run this project easily by following these steps:
 ## 🙋‍♂ Author
 
 *Muhammad Umar Hassan*  
-📚 BSCS Student | Frontend Learner  
-🔗 https://www.linkedin.com/in/m-umarh
-📧 mumarh135@gmail.com
+- 📚 BSCS Student | Frontend Learner  
+- 🔗 https://www.linkedin.com/in/m-umarh
+- 📧 mumarh135@gmail.com
 
 ---
 
