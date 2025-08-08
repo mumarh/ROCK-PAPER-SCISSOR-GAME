@@ -2,14 +2,11 @@
 
 This is a simple *Rock-Paper-Scissors* game developed using *HTML, CSS, and JavaScript. In this game, the user plays against the computer. When the user selects either **Rock, **Paper, or **Scissors*, the computer makes a random choice. The winner is then displayed on the screen along with a congratulations or lossing message.
 
-## 🚀 How to Run
+---
 
-1. *Download or Fork this Repository* to your local system.
-2. Inside the folder, open the file named index.html.
-3. Just *copy the code* inside index.html and *paste it into your own HTML file* (using any code editor like VS Code or even Notepad).
-4. Open the file in your browser and *enjoy the game!*
+## 🖼 Screenshot Preview
 
-✅ No extra installation or setup is required.
+![Rock Paper Scissors Game Screenshot](screenshot.png.png)
 
 ---
 
@@ -27,27 +24,63 @@ This is a simple *Rock-Paper-Scissors* game developed using *HTML, CSS, and Java
 ---
 
 
-## 📁 Project Files Included
+## 📁 File Structure
 
-- index.html – Game layout
-- style.css – Styling of the game
-- script.js – Game logic
-- screenshot.png – Preview of the game UI
+|  FILE NAME                | Description                              |
+|-------------------------- |------------------------------------------|
+| Rock-Paper-Scissor.html   | #HTML file for the structure             |
+| Rock-Paper-Scissor.css    | #CSS file for the style and neon effects |
+| Rock-paper-Scissor.js     | #javascript file for the logic           | 
+| rock.png                  | Rock pic                                 | 
+| paper.png                 | Paper pic                                | 
+| scissor.png               | Scissor pic                              | 
 
-> All these files have been uploaded in this repository.
-
----
-
-## 🖼 Screenshot Preview
-
-![Rock Paper Scissors Game Screenshot](screenshot.png)
+- All these files have been uploaded in this repository.
 
 ---
 
-## 📩 Note
+## ⚙ How to Run 
 
-Feel free to fork or clone the project. If you want to test it quickly, just open index.html in your browser or paste the code into your own project.
+Anyone can run this project easily by following these steps:
+
+1. *Download or fork this repository*
+   - Click the green Code button above and select *Download ZIP, or click **Fork* to clone it
+
+2. *Open the folder*
+   - Inside the folder, find the Rock-Paper-Scissor.html file
+
+3. *Copy and paste the code*
+   - Open the Rock-Paper-Scissor.html file
+   - Copy the code from it
+   - Paste it into your *VS Code* or any code editor you're using
+   - Save the file and open it in your browser
+
+✅ Enjoy playing Tic Tac Toe right in your browser!
 
 ---
 
-🔗 *Follow me on LinkedIn* for more beginner-friendly frontend and JavaScript projects.
+## 🙋‍♂ Author
+
+*Muhammad Umar Hassan*  
+📚 BSCS Student | Frontend Learner  
+🔗 https://www.linkedin.com/in/m-umarh
+📧 mumarh135@gmail.com
+
+---
+
+## 📄 License
+
+- This project is licensed under the *MIT License*.
+- Feel free to use, share, and improve it!
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project:
+
+- ⭐ Star this repository  
+- 🍴 Fork it  
+- 🧑‍💻 Share it with others
+
+Thanks for playing!
