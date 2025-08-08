@@ -10,6 +10,20 @@ This is a simple *Rock-Paper-Scissors* game developed using *HTML, CSS, and Java
 
 ---
 
+## 📌 Table of Contents
+
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [File Structure](#-file-structure)
+- [How to Run](#-how-to-run)
+- [Screenshot](#-screenshot)
+- [Author](#-author)
+- [Support](#-Support)
+- [License](#-license)
+
+---
+
+
 ## 🧠 Features
 
 - User chooses between Rock, Paper, or Scissors.
