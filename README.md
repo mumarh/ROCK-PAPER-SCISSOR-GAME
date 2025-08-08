@@ -23,6 +23,13 @@ This is a simple *Rock-Paper-Scissors* game developed using *HTML, CSS, and Java
 
 ---
 
+## 🛠 Technologies Used
+
+- *HTML5* – Structure of the calculator  
+- *CSS3* – 3D design, layout, and neon glow effects  
+- *JavaScript (Vanilla)* – Handles logic and button interaction  
+
+---
 
 ## 📁 File Structure
 
